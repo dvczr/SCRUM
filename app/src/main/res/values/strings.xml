@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SCRUM</string>
+
+    <string name="et_fCreate_hintBody">Write your todo-task here…</string>
+    <string name="et_fList_hintTitle">Title</string>
+    <string name="contentDescription_fab">Create new task</string>
+    <string name="btn_fCreate_add">Add Task</string>
+    <string name="btn_fCreate_cancel">Cancel</string>
+    <string name="mItem_deleteTask">Delete task</string>
+    <string name="mItem_saveTask">Save task</string>
+    <string name="mItem_deleteAllTasks">Delete all tasks</string>
+    <string name="mItem_searchTask">Search task</string>
+
+</resources>

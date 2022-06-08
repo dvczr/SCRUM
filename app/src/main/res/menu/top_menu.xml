@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_topSave"
+        android:title="@string/mItem_saveTask"
+        android:icon="@drawable/ic_add_new_task"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_topDelete"
+        android:title="@string/mItem_deleteTask"
+        android:icon="@drawable/ic_delete_task"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_topDeleteAll"
+        android:title="@string/mItem_deleteAllTasks"
+        android:icon="@drawable/ic_delete_all_tasks"
+        app:showAsAction="ifRoom"/>
+
+</menu>
